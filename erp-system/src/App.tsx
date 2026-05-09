@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Sidebar } from "./components/Sidebar";
-import Home from "./pages/Home";
+import { Home } from "./pages/Home";
 import { InventoryCategoryPage } from "./pages/InventoryCategory";
 import { InventoryListPage } from "./pages/InventoryList";
 import { SalesOrdersPage } from "./pages/SalesOrders";
